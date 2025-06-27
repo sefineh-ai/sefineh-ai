@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 **Software Engineer | AI/ML Specialist | Full-Stack Developer**
 
